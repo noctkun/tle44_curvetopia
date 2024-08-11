@@ -16,3 +16,6 @@ Shape Completion is tackled by detecting and filling occluded parts of shapes. T
 The project is implemented using Python, utilizing libraries such as OpenCV for image processing, NumPy for numerical operations, and Matplotlib for visualization. The code is developed and tested in a Jupyter Notebook environment, allowing for interactive exploration and refinement of the algorithms.
 
 Overall, this project provides a robust framework for analyzing, regularizing, and completing images of geometric shapes, offering valuable tools for various applications in image analysis and computer vision.
+
+# Demo Link
+[https://youtu.be/OOdWjGRL9yY]
